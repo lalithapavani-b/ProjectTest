@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ProjectTest"
+  site-url: "https://lalithapavani-b.github.io/ProjectTest"
+  description: "Testing nbdev for CI and deployment issues"
+  repo-branch: main
+  repo-url: "https://github.com/lalithapavani-b/ProjectTest"
